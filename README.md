@@ -15,9 +15,9 @@ This calls the `confirm_dialog` function to show a confirmation dialog with the 
 
 ### Available Dialogs
 You can display three different types of dialogs.
-1. Folder Dialog
-2. Text input dialog
-3. Confirm dialog
+    1. Folder Dialog
+    2. Text input dialog
+    3. Confirm dialog
 
 ### Folder Dialog
 The `folder_dialog` function simply allows the user to choose a folder from their file system. It consumes no arguments and simply returns the absolute folder path.
